@@ -24,9 +24,11 @@
           <_Flip id="194"/>
         </PropertyList>
       </Object>
-      <Object id="33554435" name="Test_branch">
+      <Object id="33554435" name="Test_branch23">
         <PropertyList model="FIELD">
           <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Size id="174"/>
+          <_Flip id="194"/>
         </PropertyList>
       </Object>
     </Models>
